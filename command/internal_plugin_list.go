@@ -79,6 +79,7 @@ import (
 
 	// Legacy, will remove once it conforms with new structure
 	chefprovisioner "github.com/hashicorp/terraform/builtin/provisioners/chef"
+	"github.com/hashicorp/terraform/builtin/providers/papertrail"
 )
 
 var InternalProviders = map[string]plugin.ProviderFunc{
@@ -126,6 +127,7 @@ var InternalProviders = map[string]plugin.ProviderFunc{
 	"opsgenie":     opsgenieprovider.Provider,
 	"packet":       packetprovider.Provider,
 	"pagerduty":    pagerdutyprovider.Provider,
+	"papertrail":   papertrail.Provider,
 	"postgresql":   postgresqlprovider.Provider,
 	"powerdns":     powerdnsprovider.Provider,
 	"profitbricks": profitbricksprovider.Provider,

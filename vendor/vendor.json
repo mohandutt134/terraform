@@ -2592,6 +2592,12 @@
 			"revisionTime": "2016-10-03T17:45:16Z"
 		},
 		{
+			"checksumSHA1": "reOBBnPQi5FXdpJjYy/k+dX5mIY=",
+			"path": "github.com/mohandutt134/goptrail",
+			"revision": "b93c2f9f816063f17b9323e601deed21648f58f3",
+			"revisionTime": "2017-04-21T18:38:29Z"
+		},
+		{
 			"checksumSHA1": "KhOVzKefFYORHdIVe+/gNAHB23A=",
 			"path": "github.com/moul/anonuuid",
 			"revision": "609b752a95effbbef26d134ac18ed6f57e01b98e",
@@ -2855,6 +2861,12 @@
 			"path": "github.com/sean-/seed",
 			"revision": "e2103e2c35297fb7e17febb81e49b312087a2372",
 			"revisionTime": "2017-03-13T16:33:22Z"
+		},
+		{
+			"checksumSHA1": "LeDiwCEvVQsZ+c+xIS2zllOZvKs=",
+			"path": "github.com/sethgrid/pester",
+			"revision": "4f4c0a67b6496764028e1ab9fd8dfb630282ed2f",
+			"revisionTime": "2017-04-08T21:24:09Z"
 		},
 		{
 			"checksumSHA1": "ySSmShoczI/i/5PzurH8Uhi/dbA=",
